@@ -1,0 +1,25 @@
+{
+  "name": "firsttest",
+  "description": "mijn eerste polymer app",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "app",
+    "webcomponents"
+  ],
+  "authors": [
+    "Kris Merckx"
+  ],
+  "license": "MIT",
+  "homepage": "www.toastliterair.be",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.2.0"
+  }
+}
